@@ -18,5 +18,6 @@ Technologies Used:
 
 > Note: Some features like the dashboard and admin backend are still under refinement, but main functionalities like registration, login, video call, and prescription generation are functional.
 
-<img width="1767" height="831" alt="image" src="https://github.com/user-attachments/assets/7d86f5cd-4f55-4c53-9f61-bf58065d2ff5" />
+<img width="1812" height="879" alt="image" src="https://github.com/user-attachments/assets/64a501a1-f579-472b-b08c-5da22a3c328d" />
+
 
