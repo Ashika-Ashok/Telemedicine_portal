@@ -4,8 +4,8 @@ Telemedicine portal is a web-based telemedicine platform designed to connect pat
 Features Implemented:
 - Landing page with information about the platform 
 - Secure doctor and patient registration/login
+- notification using nodemailer
 - Doctor dashboard for managing appointments (partially functional)
-- Video consultation module using Twilio
 - Digital prescription generation (choose medicines, dosage, export as PDF)
 - Admin panel for doctor verification (frontend ready, backend integration pending)
 
